@@ -70,6 +70,6 @@ searchBox.addEventListener("keydown", (event) => {
     }
 });
 
-// Add event listener for the search button click
+// Add event listener for the search button 
 searchBtn.addEventListener("click", handleSearch);
 
